@@ -7,3 +7,4 @@ also drives researchers towards accountable and transparent data management. Rec
 communication about what data management practices should aspire to in the abstract, but practical guidelines are less
 well developed. In this two days course we present the GitHub platform as a useful tool for file and project management
 as a single user, and for distributed collaboration all the way to publishing the project outcomes.
+Nowadays, well managed research data is Findable, Accessible, Interoperable and Reusable (FAIR). The participants will understand what needs to be done to their datasets to comply with FAIR principles, and how it fits with Data Management Plans (DMP), a common requirement of publicly funded research projects.
